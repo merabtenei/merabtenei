@@ -8,4 +8,4 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=merabtenei&show_icons=true&theme=transparent" alt="merabtenei" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=merabtenei&theme=dark" alt="merabtenei" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=merabtenei" alt="merabtenei" /></p>
