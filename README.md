@@ -9,3 +9,6 @@
 --!>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=merabtenei" alt="merabtenei" /></p>
+| GitHub stats | Top Langs |
+| :---:|:---:|
+| [![GitHub stats](https://github-readme-stats.vercel.app/api?username=merabtenei)](https://github.com/Wxh16144#js-contribution-activity) | [![Top Langs](https://github-readme-stats.vercel.app/api/wakatime?username=merabtenei&langs_count=5&range=last_7_days)](https://wakatime.com/share/@merabtenei/7bd4c6b7-52cb-4936-9964-0be04114e6d4.svg.html) |
